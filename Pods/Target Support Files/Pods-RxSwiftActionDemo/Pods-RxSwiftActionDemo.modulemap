@@ -1,0 +1,6 @@
+framework module Pods_RxSwiftActionDemo {
+  umbrella header "Pods-RxSwiftActionDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
